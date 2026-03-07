@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サイキック",
+  "base_artist": "はしメロ",
+  "createdAt": "2026-03-07T07:29:01.100529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイキック",
+      "artist": "はしメロ",
+      "has_synced": false,
+      "path": "select/01_サイキック_はしメロ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイキック",
+      "artist": "はしメロ",
+      "has_synced": false,
+      "path": "select/pl_01_サイキック_はしメロ.txt"
+    }
+  ]
+}
